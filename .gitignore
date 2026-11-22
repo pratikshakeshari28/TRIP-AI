@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+database/trip_ai.db
+database/photo_cache.json
